@@ -1,0 +1,8 @@
+com\book\api\BookApplication\service\BooksService.class
+com\book\api\BookApplication\daoImpl\BooksDAOImpl.class
+com\book\api\BookApplication\BookApplication.class
+com\book\api\BookApplication\VO\BooksVO.class
+com\book\api\BookApplication\controllers\BooksController.class
+com\book\api\BookApplication\model\BooksLibrary.class
+com\book\api\BookApplication\serviceImpl\BooksServiceImpl.class
+com\book\api\BookApplication\dao\BooksDAO.class
